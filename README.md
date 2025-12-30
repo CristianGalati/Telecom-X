@@ -9,7 +9,7 @@ Este proyecto forma parte de un desafío de Data Science enfocado en el sector d
 * `TelecomX_LATAM.ipynb`: Notebook de Python con el proceso de extracción, transformación y análisis.
 * `TelecomX_diccionario.md`: Diccionario de datos detallando cada variable.
 * !(img/Churn.png)
-* !(Cantidad de Clientes por Churn.png)
+* !(img/Cantidad de Clientes por Churn.png)
 
 ## 🛠️ Tecnologías Utilizadas
 
